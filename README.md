@@ -19,7 +19,7 @@
 
 ### :house: [Hamonize official homepage](https://hamonize.github.io/)
 
-<h1></h1>
+<h1> <img alt="GitHub" src="https://img.shields.io/github/license/gon1942/hamonize?style=flat-square">,<img alt="GitHub" src="https://img.shields.io/github/package-json/v/gon1942/hamonize?style=flat-square"></h1>
 
 
 <img width="800" src="./img/hamonize.png">
