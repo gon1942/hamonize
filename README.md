@@ -19,7 +19,7 @@
 
 ### :house: [Hamonize official homepage](https://hamonize.github.io/)
 
-<h1> 
+<h1></h1>
 
 <img width="800" src="./img/hamonize.png">
 
