@@ -1,7 +1,7 @@
 ### badgesLine
   
     # ![Hamonize](./img/halogo.png)
-[![License](https://img.shields.io/github/license/Lambda3/dotnet-commands.svg)](./LICENSE.md)
+[![License](https://img.shields.io/github/license/Lambda3/dotnet-commands.svg)](./LICENSE.md)#  ![GitHub](<https://img.shields.io/github/license/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/package-json/v/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/stars/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/issues-pr/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/david/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/repo-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/languages/code-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/com/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/org/gon1942/hamonize?style=flat-square>)
 
 
 ![GitHubLicense](https://img.shields.io/github/license/hamonikr/hamonize)
@@ -344,4 +344,6 @@ PR을 생성하기 전에 error가 있는지 확인을 해주세요. error가 �
 </tr>
 </table>
 
+
+  #  ![GitHub](<https://img.shields.io/github/license/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/package-json/v/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/stars/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/issues-pr/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/david/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/repo-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/languages/code-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/com/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/org/gon1942/hamonize?style=flat-square>)
 
