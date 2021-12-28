@@ -1,25 +1,16 @@
-#  ![GitHub](<https://img.shields.io/github/license/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/package-json/v/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/stars/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/issues-pr/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/david/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/repo-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/github/languages/code-size/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/com/gon1942/hamonize?style=flat-square>) ![GitHub](<https://img.shields.io/travis/org/gon1942/hamonize?style=flat-square>)
 
-  
 
 # ![Hamonize](./img/halogo.png)
 
 <img width="800" src="./img/hamonize.png">
 
 
-<table border="0">
-  <tr>
-    <td>
-      <Ul>
-        <li>하모나이즈는 개인 및 조직에서 원격지 컴퓨터들의 원할한 관리를 위해 만들어진 솔루션입니다 </li>
-        <li>오픈소스 하모나이즈를 사용하시는 분들을 위해 하모나이즈 솔루션을 믿고 사용하실 수 있도록 <br>소프트웨어 품질 인증 기관을 통해 일정한 수준의 품질을 갖춘 SW입니다.(GS 인증획득)</li>
-        ### :house: [Hamonize official homepage](https://hamonize.github.io/)
-      </ul>
-    </td>
-    <td><img src="https://github.com/hamonikr/hamonize/blob/master/img/hamonize_gs.png?raw=true" width="200"></td>
-  </tr>
-  <tr>
-    <td colspan ='2'>
+
+**Hamonize 소프트웨어 품징 인증** <br> `오픈소스 하모나이즈를 사용하시는 분들을 위해 하모나이즈 솔루션을 믿고 사용하실 수 있도록 `<br>`소프트웨어 품질 인증 기관을 통해 일정한 수준의 품질을 갖춘 SW입니다.(GS 인증획득) `<br><br>[Hamonize official homepage](https://hamonize.github.io/)|  <img src="https://github.com/hamonikr/hamonize/blob/master/img/hamonize_gs.png?raw=true" width="200">
+|:---|:---:
+
+
+### Hamonize - Badges 
       
 ![GitHubLicense](https://img.shields.io/github/license/hamonikr/hamonize)
 ![GitHub reposize](https://img.shields.io/github/repo-size/hamonikr/hamonize)
@@ -28,8 +19,6 @@
 ![GitHubforks](https://img.shields.io/github/forks/hamonikr/hamonize?style=social)
 ![GitHubissues](https://img.shields.io/github/issues/hamonikr/hamonize?style=social)
 ![GitHubwatch](https://img.shields.io/github/watchers/hamonikr/hamonize?style=social)
-
-
 ![GitHubbuild](https://img.shields.io/github/workflow/status/hamonikr/hamonize/Hamonize%20CI)
 ![GitHubpr](https://img.shields.io/github/issues-pr/hamonikr/hamonize)
 ![GitHubprclosed](https://img.shields.io/github/issues-pr-closed/hamonikr/hamonize)
@@ -37,14 +26,6 @@
 ![GitHubDownload](https://img.shields.io/github/downloads/hamonikr/hamonize/total)
 ![GitHubRelease](https://img.shields.io/github/v/release/hamonikr/hamonize)
 ![GitHubLastCommit](https://img.shields.io/github/last-commit/hamonikr/hamonize)
-    </td>
-  </tr>
-</table>
-
-
-
-
-
 
 
 <br>
