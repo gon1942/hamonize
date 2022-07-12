@@ -10,6 +10,6 @@ jobs:
       - name: add badges
         uses: rocktimsaikia/badge-it@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
           badges: 'gh_license,gh_version, gh_stars, gh_fork, gh_open_issue, gh_open_pr, gh_dependencies, gh_repo_size, gh_code_size, travis_com, travis_org'
           badge-style: 'flat-square'
