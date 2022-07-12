@@ -1,5 +1,7 @@
 
 
+<h1 id="badge">
+  
 
 # ![Hamonize](./img/halogo.png)
 
@@ -9,6 +11,4 @@
 ### badgesLine
 
 
-<h1 id="badge">
-  
 <h1>
