@@ -1,5 +1,7 @@
 
 
+### badgesLine
+
 <h1 id="badge">
   
 
@@ -7,8 +9,6 @@
 
 <img width="800" src="./img/hamonize.png">
 
-
-### badgesLine
 
 
 <h1>
