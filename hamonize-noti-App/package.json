@@ -19,8 +19,8 @@
   "repository": "https://github.com/hamonikr/hamonize",
   "license": "MIT",
   "devDependencies": {
-    "electron": "18.3.7",
-    "electron-builder": "^22.11.7",
+    "electron": "22.0.0",
+    "electron-builder": "^23.6.0",
     "pkg": "^4.4.0",
     "standard": "^8.0.0"
   },
@@ -28,7 +28,7 @@
     "electron-args": "^0.1.0",
     "electron-is": "^2.3.0",
     "electron-localshortcut": "^3.2.1",
-    "electron-packager": "^15.3.0",
+    "electron-packager": "^17.1.1",
     "jquery": "^3.6.0"
   },
   "build": {
